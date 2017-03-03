@@ -1,0 +1,26 @@
+﻿
+/* Tables */
+#tblOrder, #tblItem {
+    width:300px;
+}
+
+#tblOrder, #tblUserCredentials, #tblUserRoleEdit {
+    background-color: #eaeaea; 
+}
+
+#tblItem {
+    background-color: #fafafa; 
+}
+/* End tables */
+
+/* Input */
+#MainContent_txtAddress, #MainContent_txtPhoneNumber, #MainContent_txtQuantity {
+    width: 200px;
+}
+/* End Input */
+
+/* Select */
+#MainContent_cboMeals {
+    width: 200px;
+}
+/* End Select */

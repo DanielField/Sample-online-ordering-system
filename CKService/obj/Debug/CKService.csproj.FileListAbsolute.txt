@@ -1,0 +1,359 @@
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\ApplicationInsights.config
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\csc.exe
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\CKService.dll.config
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\CKService.dll
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\CKService.pdb
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Web.dll
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Web.xml
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.dll
+C:\Users\student\Desktop\go away\C#\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.pdb
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\ApplicationInsights.config
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\csc.exe
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\System.Collections.Immutable.dll
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\System.Reflection.Metadata.dll
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\vbc.exe
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\VBCSCompiler.exe
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\VBCSCompiler.exe.config
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\CKService.dll.config
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\CKService.dll
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\CKService.pdb
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Agent.Intercept.dll
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.DependencyCollector.dll
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Web.dll
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.WindowsServer.dll
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.ApplicationInsights.dll
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.DependencyCollector.xml
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Web.xml
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.WindowsServer.xml
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.ApplicationInsights.xml
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.csprojResolveAssemblyReference.cache
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.dll
+E:\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.pdb
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\ApplicationInsights.config
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\roslyn\csc.exe
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\CKService.dll.config
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\CKService.dll
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\CKService.pdb
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Web.dll
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Web.xml
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.dll
+C:\Users\student\Desktop\go away\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.pdb
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\ApplicationInsights.config
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\csc.exe
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\System.Collections.Immutable.dll
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\System.Reflection.Metadata.dll
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\vbc.exe
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\VBCSCompiler.exe
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\roslyn\VBCSCompiler.exe.config
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\CKService.dll.config
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\CKService.dll
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\CKService.pdb
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.DependencyCollector.dll
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Web.dll
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.WindowsServer.dll
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.ApplicationInsights.dll
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.DependencyCollector.xml
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Web.xml
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.WindowsServer.xml
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.ApplicationInsights.xml
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.csprojResolveAssemblyReference.cache
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.dll
+F:\Stuff\TAFE Software development\C#\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.pdb
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\ApplicationInsights.config
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\roslyn\csc.exe
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\CKService.dll.config
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\CKService.dll
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\CKService.pdb
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Web.dll
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Web.xml
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.dll
+C:\Users\student\Desktop\go away\C#\New\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.pdb
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\ApplicationInsights.config
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\csc.exe
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\CKService.dll.config
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\CKService.dll
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\CKService.pdb
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Web.dll
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Web.xml
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.dll
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.pdb
+F:\CharityKitchenWebDatabase\CKService\bin\ApplicationInsights.config
+F:\CharityKitchenWebDatabase\CKService\bin\roslyn\csc.exe
+F:\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\CharityKitchenWebDatabase\CKService\bin\roslyn\System.Collections.Immutable.dll
+F:\CharityKitchenWebDatabase\CKService\bin\roslyn\System.Reflection.Metadata.dll
+F:\CharityKitchenWebDatabase\CKService\bin\roslyn\vbc.exe
+F:\CharityKitchenWebDatabase\CKService\bin\roslyn\VBCSCompiler.exe
+F:\CharityKitchenWebDatabase\CKService\bin\roslyn\VBCSCompiler.exe.config
+F:\CharityKitchenWebDatabase\CKService\bin\CKService.dll.config
+F:\CharityKitchenWebDatabase\CKService\bin\CKService.dll
+F:\CharityKitchenWebDatabase\CKService\bin\CKService.pdb
+F:\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Agent.Intercept.dll
+F:\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.DependencyCollector.dll
+F:\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Web.dll
+F:\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.WindowsServer.dll
+F:\CharityKitchenWebDatabase\CKService\bin\Microsoft.ApplicationInsights.dll
+F:\CharityKitchenWebDatabase\CKService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.DependencyCollector.xml
+F:\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Web.xml
+F:\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.WindowsServer.xml
+F:\CharityKitchenWebDatabase\CKService\bin\Microsoft.ApplicationInsights.xml
+F:\CharityKitchenWebDatabase\CKService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.dll
+F:\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.pdb
+F:\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\ApplicationInsights.config
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\csc.exe
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\vbc.exe
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\CKService.dll.config
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\CKService.dll
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\CKService.pdb
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Web.dll
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Web.xml
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.dll
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.pdb
+C:\Users\student\Desktop\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Field\Desktop\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.csprojResolveAssemblyReference.cache
+G:\current\CharityKitchenWebDatabase\CKService\bin\ApplicationInsights.config
+G:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\csc.exe
+G:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\System.Collections.Immutable.dll
+G:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\System.Reflection.Metadata.dll
+G:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\vbc.exe
+G:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\VBCSCompiler.exe
+G:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\VBCSCompiler.exe.config
+G:\current\CharityKitchenWebDatabase\CKService\bin\CKService.dll.config
+G:\current\CharityKitchenWebDatabase\CKService\bin\CKService.dll
+G:\current\CharityKitchenWebDatabase\CKService\bin\CKService.pdb
+G:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Agent.Intercept.dll
+G:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.DependencyCollector.dll
+G:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Web.dll
+G:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.WindowsServer.dll
+G:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.ApplicationInsights.dll
+G:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.DependencyCollector.xml
+G:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Web.xml
+G:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.WindowsServer.xml
+G:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.ApplicationInsights.xml
+G:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\current\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.csprojResolveAssemblyReference.cache
+G:\current\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.dll
+G:\current\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.pdb
+F:\current\CharityKitchenWebDatabase\CKService\bin\ApplicationInsights.config
+F:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\csc.exe
+F:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\System.Collections.Immutable.dll
+F:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\System.Reflection.Metadata.dll
+F:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\vbc.exe
+F:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\VBCSCompiler.exe
+F:\current\CharityKitchenWebDatabase\CKService\bin\roslyn\VBCSCompiler.exe.config
+F:\current\CharityKitchenWebDatabase\CKService\bin\CKService.dll.config
+F:\current\CharityKitchenWebDatabase\CKService\bin\CKService.dll
+F:\current\CharityKitchenWebDatabase\CKService\bin\CKService.pdb
+F:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Agent.Intercept.dll
+F:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.DependencyCollector.dll
+F:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Web.dll
+F:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.WindowsServer.dll
+F:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.ApplicationInsights.dll
+F:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.DependencyCollector.xml
+F:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.Web.xml
+F:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.AI.WindowsServer.xml
+F:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.ApplicationInsights.xml
+F:\current\CharityKitchenWebDatabase\CKService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\current\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.csprojResolveAssemblyReference.cache
+F:\current\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.dll
+F:\current\CharityKitchenWebDatabase\CKService\obj\Debug\CKService.pdb
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\ApplicationInsights.config
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\roslyn\csc.exe
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\roslyn\vbc.exe
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\CKService.dll.config
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\CKService.dll
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\CKService.pdb
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\Microsoft.AI.Web.dll
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\Microsoft.AI.Web.xml
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\obj\Debug\CKService.dll
+C:\Users\Dell Rebuild\Desktop\backup\DanielField_CharityKitchen\DanielField_CharityKitchen\CKService\obj\Debug\CKService.pdb
